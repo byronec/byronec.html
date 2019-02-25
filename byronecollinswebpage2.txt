@@ -1,0 +1,57 @@
+<html>
+<head>
+<center>
+<h1>
+Laura Jones</br>
+Brooklyn
+</br>
+ljones@brooklyn.nyc
+</h1>
+</center>
+</br>
+<h3>
+Experiance
+</h3>
+<hr>
+<p><h3>
+</head>
+<body>
+Amazon</br>
+Network Engineer
+</h3>
+<h4>
+2014 - Present
+</h4>
+<ul style="list-style-type:none;">
+<li>- ljk;sfd jsad;flkj;l fkjasd;l fkajf; lakjfa</li>
+<li>- sdaf lksadjf ;lksadj f;lsakd fjsa;ldfk jsad</li>
+<li>- sdafl kjsad;lf ksjadf;l ksadjf;lsakdj fas;ldk fjsa</li>
+</ul>
+</p>
+<h3>
+Walmart</br>
+Salesforce Engineer
+</h3>
+<h4>
+June 2013 - Sept 2013
+</h4>
+<ul style="List-style-type:none;">
+<li>- LK:LKDFJ :LKDJ :LDKFJ :L KJ F:DLK JF:LKF J</li>
+<li>- s ldkjf;dlsak j;alkf ja;lfk ja;lf kja</li>
+<li>- sdlkf asd;lkf jdsa;lfk jsa;lka sdj;ldsakf jdsa</li>
+</ul>
+</br>
+<h3>
+Education
+</h3>
+
+<hr>
+<h3>
+Howard University
+</h3>
+<h4>
+Computer Science, BS/MS</br>
+2005-2012
+</h4>
+</body>
+</html>
